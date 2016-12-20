@@ -1,4 +1,4 @@
 bootstrap v3.5
--Components
--CSS
--JavaScript
+<br />-Components documentation
+<br />-CSS documentation
+<br />-JavaScript documentation
